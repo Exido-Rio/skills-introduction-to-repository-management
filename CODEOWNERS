@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Exido-Rio
+/src/backend/database.py      @Exido-Rio
+/src/backend/routers/auth.py  @Exido-Rio
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Exido-Rio
